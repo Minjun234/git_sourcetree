@@ -1,3 +1,3 @@
-# git_sourcetree
-## hotfix
+# hotfix
 this repository is test repository for source tree
+edit on Github
